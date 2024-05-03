@@ -17,7 +17,7 @@
 
 ---
 ### :wrench: Network administration projects
-- Using **Powershell** to Automate Creation of Active Directory Users
+- [Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
 - Using **Powershell** to Automate Offboarding of Active Directory Users
 - Using **Bash** Scripting to Automate Three Common Linux Administration Tasks
 
