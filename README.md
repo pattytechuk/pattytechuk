@@ -16,18 +16,18 @@
 - How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ---
-### :wrench: Network administration 
+### :wrench: Network administration projects
 - Using **Powershell** to Automate Creation of Active Directory Users
 - Using **Powershell** to Automate Offboarding of Active Directory Users
 - Using **Bash** Scripting to Automate Three Common Linux Administration Tasks
 
 ---
-### :shield: Network security 
+### :shield: Network security projects
 - Creating and building a **SIEM** and capturing log traffic
 - Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network
 
 ---
-### :electric_plug: Network design
+### :electric_plug: Network design projects
 - Cisco Packet Tracer
   - Subnetting for a Small SOHO Network
   - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols
