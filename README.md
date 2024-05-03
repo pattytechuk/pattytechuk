@@ -9,32 +9,29 @@
 ---
 
 ### :woman_technologist: About Me :
-- :computer: I'm currently working as an application support analyst, but I'm also interested in **network administration**, **system administration**, **scripting**, and **cybersecurity**.
-- :open_book: I'm currently learning about cybersecurity fundamentals and tools, like Splunk, Metasploitable, and pfSense.
+- :computer: I'm currently working as an application support analyst, but I'm also interested in **network administration**, **system administration**, and **cybersecurity**.
+- :open_book: I'm currently learning about cybersecurity fundamentals.
 - :world_map: I'm originally from the U.S.
 - :superhero_woman::triangular_flag_on_post: In my free time, I like to try CTF on TryHackMe, read tech articles, and sometimes [blog](https://www.blurock.tech/).
 - How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ---
-### Network administration projects
-- Deploying Active Directory on Windows Server with DNS, RAS/NAT, DHCP, and Using Powershell to Automate Bulk creation of Users
-- Using Bash Scripting to Automate Three Common Linux Administration Tasks
+### :wrench: Network administration 
+- Using **Powershell** to Automate Creation of Active Directory Users
+- Using **Powershell** to Automate Offboarding of Active Directory Users
+- Using **Bash** Scripting to Automate Three Common Linux Administration Tasks
 
 ---
-### Network security projects
-- Creating and building a SIEM and capturing log traffic
+### :shield: Network security 
+- Creating and building a **SIEM** and capturing log traffic
 - Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network
 
 ---
-### Networking projects
-
-- Azure
-  - Creating Vnets and GSNs for Virtual Networks
-  - Creating Site to Site and Point to Site VPNs 
+### :electric_plug: Network design
 - Cisco Packet Tracer
   - Subnetting for a Small SOHO Network
-  - Configuring Network with RIP, EIGRP, OSPF Routing Protocols
-  - Configuring DNS, DHCP, Web Server and IP Helper Command for DHCP Relay on a SOHO Network
+  - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols
+  - Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network
   - Subnetting a SOHO Office via Static IPv4 Assignment
 
 ---
