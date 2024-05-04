@@ -19,34 +19,20 @@
 ### :wrench: Network administration projects
 - [Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
 - Using **Powershell** to Automate Offboarding of Active Directory Users
-- Using **Bash** Scripting to Automate Three Common Linux Administration Tasks
+- Using **Bash** Scripting to Automate Three Common Linux Administration Tasks - To be posted
 
 ---
 ### :shield: Network security projects
-- Creating and building a **SIEM** and capturing log traffic
-- Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network
+- Creating and building a **SIEM** and capturing log traffic - To be posted
+- Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network - to be posted
 
 ---
 ### :electric_plug: Network design projects
 - Cisco Packet Tracer
-  - Subnetting for a Small SOHO Network
-  - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols
-  - Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network
   - Subnetting a SOHO Office via Static IPv4 Assignment
+  - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols - To be posted
+  - Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network
 
 ---
-
-<!--
-**pattytechuk/pattytechuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :keyboard: SQL 
+- Using Stored Procedures to Update Employee Database - To be posted
