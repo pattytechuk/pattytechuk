@@ -24,13 +24,13 @@
 ---
 ### :shield: Network security projects
 - Creating and building a **SIEM** and capturing log traffic - To be posted
-- Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network - to be posted
+- Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network - To be posted
 
 ---
 ### :electric_plug: Network design projects
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
-  - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols - To be posted
+  - Configuring Enterprise Network with OSPF, VLANs, Inter-VLAN routing, DHCP, 802.1x port security, SSH, NAT/PAT, WLAN, ACLs - To be posted
   - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
 
 ---
