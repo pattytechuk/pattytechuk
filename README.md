@@ -15,24 +15,24 @@
 - :superhero_woman::triangular_flag_on_post: In my free time, I like to try CTF on TryHackMe, read tech articles, and sometimes [blog](https://www.blurock.tech/).
 - How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
----
+
 ### :wrench: Network administration projects
 - [Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
 - [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
 - Using **Bash** Scripting to Automate Three Common Linux Administration Tasks - To be posted
 
----
+
 ### :shield: Network security projects
 - Creating and building a **SIEM** and capturing log traffic - To be posted
 - Using Metasploitable, Splunk, pfSense Firewall, and TCP Dump to Monitor a Network - To be posted
 
----
+
 ### :electric_plug: Network design projects
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
   - Configuring Enterprise Network with OSPF, VLANs, Inter-VLAN routing, DHCP, 802.1x port security, SSH, NAT/PAT, WLAN, ACLs - To be posted
   - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
 
----
+
 ### :keyboard: SQL 
 - Using Stored Procedures to Update Employee Database - To be posted
