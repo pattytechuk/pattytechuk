@@ -29,7 +29,7 @@
 ---
 ### :electric_plug: Network design projects
 - Cisco Packet Tracer
-  - Subnetting a SOHO Office via Static IPv4 Assignment
+  - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
   - Configuring Network with **RIP, EIGRP, OSPF** Routing Protocols - To be posted
   - Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network
 
