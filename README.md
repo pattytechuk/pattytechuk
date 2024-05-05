@@ -1,4 +1,4 @@
-# Hi, I'm Patty! Nice to meet you. :wave:
+# Hi, I'm Patty! :wave:
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNmZW11Ym1jY295enE4NW83MmhrdjA1cnc5eWo2NGo5d2s0Yng0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.gif" width="600" height="300"/>
