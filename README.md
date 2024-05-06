@@ -16,7 +16,7 @@
 - How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ### :wrench: Network administration projects
-- [Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
+- [Deploying Active Directory on Windows Server & Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
 - [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
