@@ -26,7 +26,6 @@
 - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted 
 
 ### :cloud: Cloud security projects
-- Azure Sentinel Lab - Building SIEM, Using Microsoft Defender for Cloud feature for network security, Setting Up Log Analytics Rules for Detection, and Monitoring Security Events and Incidents
-
+- [Azure Sentinel Lab - Building SIEM, Using Microsoft Defender for Cloud feature for network security, Setting Up Log Analytics Rules for Detection, and Monitoring Security Events and Incidents](https://github.com/pattytechuk/Sentinel1)
 
 
