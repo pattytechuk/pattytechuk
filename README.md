@@ -22,7 +22,7 @@
 - [Deploying Active Directory on Windows Server & Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
 - [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
  
-### **Cybersecurity projects :shield:**
+### **Cybersecurity :shield:**
 - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted 
 
 ### **Cloud :cloud:**
