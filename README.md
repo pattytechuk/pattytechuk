@@ -13,12 +13,14 @@
 
 
 ---
-### **Network administration projects :wrench:**
-- [Deploying Active Directory on Windows Server & Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
-- [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
+### **Networking :wrench:**
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
   - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
+ 
+### **System administration :wrench:**
+- [Deploying Active Directory on Windows Server & Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
+- [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
  
 ### **Cybersecurity projects :shield:**
 - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted 
