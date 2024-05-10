@@ -30,8 +30,11 @@
   - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
  
 ### **System administration :wrench:**
-- [Deploying Active Directory on Windows Server & Using **Powershell** to Automate Creation of Active Directory Users](https://github.com/pattytechuk/Powershell1) 
-- [Using **Powershell** to Automate Offboarding of Active Directory Users](https://github.com/pattytechuk/Powershell2)
+- [Active Directory + Powershell Lab #1](https://github.com/pattytechuk/Powershell1)
+  - Deploying Active Directory on Windows Server
+  - Using **Powershell** to Automate Creation of Active Directory Users
+- [Active Directory + Powershell Lab #2](https://github.com/pattytechuk/Powershell2)
+  - Using **Powershell** to Automate Offboarding of Active Directory Users
  
 
 
