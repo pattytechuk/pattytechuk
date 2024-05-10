@@ -22,7 +22,8 @@
   - Using Mitigation Techniques via MITRE ATT&CK Framework
 
 ### **Cybersecurity :shield:**
-- Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted
+- Mini-SOC Lab
+  - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted
 
 ### **Networking :wrench:**
 - Cisco Packet Tracer
