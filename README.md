@@ -14,7 +14,7 @@
 
 ---
 ### **Cloud :cloud:**
-- [Azure Sentinel Lab](https://github.com/pattytechuk/Sentinel1)
+- [Azure Sentinel Lab #1](https://github.com/pattytechuk/Sentinel1)
   - Configuring SIEM (Azure Sentinel)
   - Creating Data Collection Rules in Sentinel Analytics
   - Generating Security Events
