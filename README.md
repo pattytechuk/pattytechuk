@@ -10,8 +10,9 @@
 - :world_map: I'm originally from the U.S.
 - :superhero_woman::triangular_flag_on_post: In my free time, I like to try CTF on TryHackMe, read tech articles, and post on my tech [blog](https://www.blurock.tech/).
 - How to reach me:
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</p>
 
 # Projects 
 
