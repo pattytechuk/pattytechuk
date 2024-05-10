@@ -26,7 +26,7 @@
 - Mini-SOC Lab
   - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted
 
-### **Networking :wrench:**
+### **Networking :satellite:**
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
   - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
