@@ -14,7 +14,12 @@
 
 ---
 ### **Cloud :cloud:**
-- [Azure Sentinel Lab - Configuring SIEM (Azure Sentinel), Creating Data Collection Rules in Sentinel Analytics, Generating Security Events, Querying Logs Using KQL, & Using Mitigation Techniques via MITRE ATT&CK Framework](https://github.com/pattytechuk/Sentinel1)
+- [Azure Sentinel Lab](https://github.com/pattytechuk/Sentinel1)
+  - Configuring SIEM (Azure Sentinel)
+  - Creating Data Collection Rules in Sentinel Analytics
+  - Generating Security Events
+  - Querying Logs Using KQL
+  - Using Mitigation Techniques via MITRE ATT&CK Framework
 
 ### **Cybersecurity :shield:**
 - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted
