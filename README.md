@@ -39,6 +39,9 @@
   - Using **Powershell** to Automate Creation of Active Directory Users
 - [Active Directory + Powershell Lab #2](https://github.com/pattytechuk/Powershell2)
   - Using **Powershell** to Automate Offboarding of Active Directory Users
+
+### SQL
+- Practicing 50 SQL queries with Adventure Works Database - to be posted
  
 
 
