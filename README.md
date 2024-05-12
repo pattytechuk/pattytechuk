@@ -24,10 +24,6 @@
   - Querying Logs Using KQL
   - Using Mitigation Techniques via MITRE ATT&CK Framework
 
-### **Cybersecurity :shield:**
-- Mini-SOC Lab
-  - Creating and building a mini-SOC Lab with SIEM, IDS/IPS, Firewall (pfSense), Victim Machines (Windows AD DC and Windows PCs), Attack Machines (Kali Linux), and Log Monitoring (Splunk) - to be posted
-
 ### **Networking :satellite:**
 - Cisco Packet Tracer
   - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
@@ -40,9 +36,7 @@
 - [Active Directory + Powershell Lab #2](https://github.com/pattytechuk/Powershell2)
   - Using **Powershell** to Automate Offboarding of Active Directory Users
 
-### SQL
-- Practicing 50 SQL queries with Adventure Works Database - to be posted
- 
+
 
 
 
