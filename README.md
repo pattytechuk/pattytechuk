@@ -23,6 +23,11 @@
   - Generating Security Events
   - Querying Logs Using KQL
   - Using Mitigation Techniques via MITRE ATT&CK Framework
+ 
+- [Azure Terraform Lab #1](https://github.com/pattytechuk/Azure-Terraform-Lab1)
+  - Created Vnets and subnets using Terraform /IaC script
+  - Configured peering between subnets
+  - Configured Site to Site VPN
 
 ### **Networking :satellite:**
 - Cisco Packet Tracer
