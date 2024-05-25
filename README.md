@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
 - :computer: I'm an IT professional in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in network administration and cloud security.
-- :open_book: I'm currently learning about cloud security fundamentals and have recently acquired my CompTIA A+ and Network+ certifications. 
+- :open_book: I'm currently learning about cloud computing fundamentals and am working towards my AZ-104 certification.
 - :world_map: I'm originally from the U.S.
 - :superhero_woman::triangular_flag_on_post: In my free time, I like to try CTF on TryHackMe, read tech articles, and post on my tech [blog](https://www.blurock.tech/).
 - How to reach me:
