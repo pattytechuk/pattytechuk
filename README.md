@@ -25,11 +25,11 @@
   - Automated CI/CD pipeline with Azure DevOps
  
 - [Azure Sentinel Lab #1](https://github.com/pattytechuk/Sentinel1)
-  - Configuring SIEM (Azure Sentinel)
-  - Creating Data Collection Rules in Sentinel Analytics
-  - Generating Security Events
-  - Querying Logs Using KQL
-  - Using Mitigation Techniques via MITRE ATT&CK Framework
+  - Configured SIEM (Azure Sentinel)
+  - Created Data Collection Rules in Sentinel Analytics
+  - Generated Security Events
+  - Queried Logs Using KQL
+  - Used Mitigation Techniques via MITRE ATT&CK Framework
  
 - [Azure Terraform Lab #1](https://github.com/pattytechuk/Azure-Terraform-Lab1)
   - Created Vnets and subnets using Terraform /IaC script
@@ -43,10 +43,10 @@
  
 ### **System administration :wrench:**
 - [Active Directory + Powershell Lab #1](https://github.com/pattytechuk/Powershell1)
-  - Deploying Active Directory on Windows Server
-  - Using **Powershell** to Automate Creation of Active Directory Users
+  - Deployed Active Directory on Windows Server
+  - Used **Powershell** to Automate Creation of Active Directory Users
 - [Active Directory + Powershell Lab #2](https://github.com/pattytechuk/Powershell2)
-  - Using **Powershell** to Automate Offboarding of Active Directory Users
+  - Used **Powershell** to Automate Offboarding of Active Directory Users
 
 
 
