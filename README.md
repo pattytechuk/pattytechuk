@@ -6,8 +6,8 @@
 
 ### :woman_technologist: About Me :
 - :computer: I'm an IT professional in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure.
-- :open_book: I'm currently learning IaC (Bicep & Terraform), scripting/automation, and fundamentals of cloud security. I have recently obtain  my AZ-104 (Azure Administration Associate) certification and am currently working towards AZ-500 (Azure Security Engineer Associate) certification.
-- :world_map: I'm originally from the U.S.
+- :open_book: I'm currently learning IaC (Bicep & Terraform), scripting/automation, and fundamentals of cloud security. I have recently obtained AZ-104 (Azure Administration Associate) certification and am currently working towards AZ-500 (Azure Security Engineer Associate) certification.
+- :world_map: I'm originally from the U.S. 
 - :superhero_woman::triangular_flag_on_post: In my free time, I like to try CTF on TryHackMe, read tech articles, and post on my tech [blog](https://www.blurock.tech/).
 - How to reach me:
 <p align="center">
