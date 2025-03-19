@@ -11,10 +11,14 @@
 - :superhero_woman::triangular_flag_on_post: In my free time, I enjoy reading, learning new tech skills, cooking, and playing guitar.
 - How to reach me:
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/pattytechuk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:patty.worrall22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" alt="Email Badge"/>
+  </a>
 </p>
 
-# Projects 
 
 ### **Cloud :cloud:**
 - [Web App Kubernetes & CI/CD Project](https://github.com/pattytechuk/web-app-CI-CD-project)
