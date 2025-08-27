@@ -21,6 +21,13 @@
 
 
 ### **Cloud :cloud:**
+- [Automated Secure PaaS Landing Zone Deployment with CI/CD](https://github.com/pattytechuk/secure-paas-landing-zone) 
+  - Deployed Key Vault, web app (Azure App Service), Azure Firewall, Bastion, and private endpoints
+  - PowerShell automation scripts
+  - Private networking for PaaS services
+  - Automated CI/CD pipeline with Azure DevOps
+  - Git for version control
+ 
 - [Web App Kubernetes & CI/CD Project](https://github.com/pattytechuk/web-app-CI-CD-project)
   - Cloned web app repo
   - Pushed Docker images to Azure Container Registry
