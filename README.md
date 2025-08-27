@@ -20,7 +20,7 @@
 </p>
 
 
-### **Cloud :cloud:**
+### **Azure :cloud:**
 - [Automated Secure PaaS Landing Zone Deployment with CI/CD](https://github.com/pattytechuk/secure-paas-landing-zone) 
   - Deployed Key Vault, web app (Azure App Service), Azure Firewall, Bastion, and private endpoints
   - PowerShell automation scripts
