@@ -8,7 +8,7 @@
 - :computer: I'm an IT professional in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure.
 - :open_book: I'm currently learning IaC (Bicep & Terraform), scripting/automation, and fundamentals of cloud security. I have recently obtained AZ-104 (Azure Administration Associate) and AZ-500 (Azure Security Engineer Associate) certifications.
 - :world_map: I'm originally from the U.S. 
-- :superhero_woman::triangular_flag_on_post: In my free time, I enjoy reading, learning new tech skills, cooking, beach fishing, and playing guitar.
+- :superhero_woman::triangular_flag_on_post: In my free time, I enjoy reading, learning new tech skills, cooking, NBA games, beach fishing, traveling, and playing guitar.
 - How to reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/pattytechuk" target="_blank">
