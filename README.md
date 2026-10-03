@@ -5,8 +5,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :computer: I'm an IT professional in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure.
-- :open_book: I'm currently learning IaC (Bicep & Terraform), scripting/automation, and fundamentals of cloud security. I have recently obtained AZ-104 (Azure Administration Associate) and AZ-500 (Azure Security Engineer Associate) certifications.
+- :computer: I'm a cloud security engineer in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure.
+- :open_book: I'm currently learning about Kubernetes and automation tools like Helm. I have recently obtained AZ-305 (Azure Cloud Architecture Associate) and Terraform Associate 004.
 - :world_map: I'm originally from the U.S. 
 - :superhero_woman::triangular_flag_on_post: In my free time, I enjoy reading, learning new tech skills, cooking, NBA games, beach fishing, traveling, and playing guitar.
 - How to reach me:
@@ -41,19 +41,6 @@
   - Generated Security Events
   - Queried Logs Using KQL
   - Used Mitigation Techniques via MITRE ATT&CK Framework
-
-### **Networking :satellite:**
-- Cisco Packet Tracer
-  - [Subnetting a SOHO Office via Static IPv4 Assignment](https://github.com/pattytechuk/CPT-Small-SOHO-Network)
-  - [Configuring **DNS, DHCP,** Web Server and IP Helper Command for DHCP Relay on a SOHO Network](https://github.com/pattytechuk/CPT-DNSDHCP)
- 
-### **System administration :wrench:**
-- [Active Directory + Powershell Lab #1](https://github.com/pattytechuk/Powershell1)
-  - Deployed Active Directory on Windows Server
-  - Used **Powershell** to Automate Creation of Active Directory Users
-- [Active Directory + Powershell Lab #2](https://github.com/pattytechuk/Powershell2)
-  - Used **Powershell** to Automate Offboarding of Active Directory Users
-
 
 
 
