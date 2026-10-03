@@ -5,7 +5,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :computer: I'm a cloud security engineer in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure.
+- :computer: I'm a cloud security engineer in the UK with a deep interest in technology and a dedication to solving problems. I'm interested primarily in understanding ways to build and secure cloud infrastructure. I also offer Azure security assessments and remediation through my consulting company Cirrus Security Ltd. 
 - :open_book: I'm currently learning about Kubernetes and automation tools like Helm. I have recently obtained AZ-305 (Designing Microsoft Azure Infrastructure Solutions) and Terraform Associate 004.
 - :world_map: I'm originally from the U.S. 
 - :superhero_woman::triangular_flag_on_post: In my free time, I enjoy reading, learning new tech skills, cooking, NBA games, beach fishing, traveling, and playing guitar.
